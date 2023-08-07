@@ -1,5 +1,5 @@
 {
-    "count": 8,
+    "count": 11,
     "next": null,
     "previous": null,
     "results": [
@@ -23,6 +23,13 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Italian/6649a3b1-7571-4f3a-a889-9f3ec6402845_it_Female.mp4"
+        },
+        {
+            "id": "34371e2c-b007-4302-8579-0fec82319002",
+            "collectionId": "Italian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Italian/34371e2c-b007-4302-8579-0fec82319002_it_Female.mp4"
         },
         {
             "id": "39712134-ea11-4983-8d4e-241dc6ae4315",
@@ -58,6 +65,20 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Italian/b8db1f70-05a0-452e-aa8e-32d72e3a6e9a_it_Male.mp4"
+        },
+        {
+            "id": "52b07536-56e0-440d-a03b-368613e96a82",
+            "collectionId": "Italian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Italian/52b07536-56e0-440d-a03b-368613e96a82_it_Female.mp4"
+        },
+        {
+            "id": "26728b26-6efd-4105-a68d-8d8f79a66e66",
+            "collectionId": "Italian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Italian/26728b26-6efd-4105-a68d-8d8f79a66e66_it_Male.mp4"
         }
     ]
 }
